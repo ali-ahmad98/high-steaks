@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  width: 78%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footerContainer {
+  /* text-align: center; */
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main {
+  background-color: black;
+}
+.divider {
+  background: #3b3b3b !important;
+}
+.MuiLink-root {
+  color: #bfc500 !important;
+}
+.secondaryFooter {
+  background-color: #bfc500;
+  height: 12px;
+}
